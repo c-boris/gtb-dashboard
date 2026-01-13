@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GTB - Dashboard</title>
+    <link rel="stylesheet" href="assets/style.css" />
+  </head>
+  <body>
+    <header class="navbar">
+      <div class="logo">GTB <span>Dashboard</span></div>
+
+      <div class="nav-actions">
+        <div id="global-filters" class="filters-container"></div>
+
+        <div class="divider"></div>
+
+        <button
+          id="theme-toggle"
+          aria-label="Toggle dark mode"
+          title="Changer le thème"
+        >
+          <span id="theme-icon-container"></span>
+        </button>
+      </div>
+    </header>
+
+    <main id="dashboard-grid">
+      <div class="loader">Chargement des données Jeedom...</div>
+    </main>
+
+    <script type="module" src="js/main.js"></script>
+  </body>
+</html>

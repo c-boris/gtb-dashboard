@@ -1,0 +1,29 @@
+[
+  {
+    "id": "room_1",
+    "name": "Salle de réunion",
+    "temperature": 19.5,
+    "setpoint": 21,
+    "mode": "comfort",
+    "heating": "on",
+    "status": "warning"
+  },
+  {
+    "id": "room_2",
+    "name": "Bureau direction",
+    "temperature": 22.1,
+    "setpoint": 20,
+    "mode": "eco",
+    "heating": "off",
+    "status": "ok"
+  },
+  {
+    "id": "room_3",
+    "name": "Open space",
+    "temperature": 18.2,
+    "setpoint": 19,
+    "mode": "off",
+    "heating": "off",
+    "status": "error"
+  }
+]

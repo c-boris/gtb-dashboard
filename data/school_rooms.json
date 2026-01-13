@@ -1,0 +1,218 @@
+[
+  {
+    "id": "cp_a",
+    "name": "Classe CP-A",
+    "temperature": 20.5,
+    "setpoint": 21.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "on"
+  },
+  {
+    "id": "cp_b",
+    "name": "Classe CP-B",
+    "temperature": 21.2,
+    "setpoint": 21.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "off"
+  },
+  {
+    "id": "ce1_a",
+    "name": "Classe CE1-A",
+    "temperature": 19.5,
+    "setpoint": 20.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "on"
+  },
+  {
+    "id": "ce1_b",
+    "name": "Classe CE1-B",
+    "temperature": 18.2,
+    "setpoint": 20.0,
+    "status": "warning",
+    "mode": "comfort",
+    "heating": "on"
+  },
+  {
+    "id": "ce2_a",
+    "name": "Classe CE2-A",
+    "temperature": 20.8,
+    "setpoint": 21.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "off"
+  },
+  {
+    "id": "ce2_b",
+    "name": "Classe CE2-B",
+    "temperature": 21.5,
+    "setpoint": 21.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "off"
+  },
+  {
+    "id": "cm1_a",
+    "name": "Classe CM1-A",
+    "temperature": 19.0,
+    "setpoint": 20.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "on"
+  },
+  {
+    "id": "cm1_b",
+    "name": "Classe CM1-B",
+    "temperature": 17.5,
+    "setpoint": 20.0,
+    "status": "error",
+    "mode": "comfort",
+    "heating": "on"
+  },
+  {
+    "id": "cm2_a",
+    "name": "Classe CM2-A",
+    "temperature": 20.1,
+    "setpoint": 20.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "off"
+  },
+  {
+    "id": "cm2_b",
+    "name": "Classe CM2-B",
+    "temperature": 20.3,
+    "setpoint": 20.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "off"
+  },
+  {
+    "id": "dir_01",
+    "name": "Bureau Direction",
+    "temperature": 21.0,
+    "setpoint": 21.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "off"
+  },
+  {
+    "id": "salle_prof",
+    "name": "Salle des Maîtres",
+    "temperature": 19.8,
+    "setpoint": 20.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "on"
+  },
+  {
+    "id": "biblio",
+    "name": "Bibliothèque (BCD)",
+    "temperature": 18.5,
+    "setpoint": 19.0,
+    "status": "ok",
+    "mode": "eco",
+    "heating": "on"
+  },
+  {
+    "id": "info",
+    "name": "Salle Informatique",
+    "temperature": 22.5,
+    "setpoint": 20.0,
+    "status": "warning",
+    "mode": "eco",
+    "heating": "off"
+  },
+  {
+    "id": "cantine_1",
+    "name": "Réfectoire Mater",
+    "temperature": 16.0,
+    "setpoint": 16.0,
+    "status": "ok",
+    "mode": "off",
+    "heating": "off"
+  },
+  {
+    "id": "cantine_2",
+    "name": "Réfectoire Elém",
+    "temperature": 16.2,
+    "setpoint": 16.0,
+    "status": "ok",
+    "mode": "off",
+    "heating": "off"
+  },
+  {
+    "id": "gym_01",
+    "name": "Préau / Gymnase",
+    "temperature": 14.8,
+    "setpoint": 15.0,
+    "status": "ok",
+    "mode": "eco",
+    "heating": "on"
+  },
+  {
+    "id": "art_01",
+    "name": "Salle d'Arts Visuels",
+    "temperature": 18.0,
+    "setpoint": 19.0,
+    "status": "ok",
+    "mode": "eco",
+    "heating": "on"
+  },
+  {
+    "id": "dorm_01",
+    "name": "Dortoir Mater",
+    "temperature": 19.2,
+    "setpoint": 19.5,
+    "status": "ok",
+    "mode": "eco",
+    "heating": "on"
+  },
+  {
+    "id": "infirmerie",
+    "name": "Infirmerie",
+    "temperature": 22.0,
+    "setpoint": 22.0,
+    "status": "ok",
+    "mode": "comfort",
+    "heating": "off"
+  },
+  {
+    "id": "arch_01",
+    "name": "Archives / Stock",
+    "temperature": 12.0,
+    "setpoint": 12.0,
+    "status": "ok",
+    "mode": "off",
+    "heating": "off"
+  },
+  {
+    "id": "sanit_h",
+    "name": "Sanitaires Garçons",
+    "temperature": 17.5,
+    "setpoint": 18.0,
+    "status": "ok",
+    "mode": "eco",
+    "heating": "on"
+  },
+  {
+    "id": "sanit_f",
+    "name": "Sanitaires Filles",
+    "temperature": 17.8,
+    "setpoint": 18.0,
+    "status": "ok",
+    "mode": "eco",
+    "heating": "on"
+  },
+  {
+    "id": "tech_01",
+    "name": "Local Technique",
+    "temperature": 25.4,
+    "setpoint": 15.0,
+    "status": "error",
+    "mode": "off",
+    "heating": "off"
+  }
+]
